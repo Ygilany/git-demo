@@ -1,5 +1,3 @@
 this is the file we'll be editing
 
 I’m user 1
-
-This is my user2 work
