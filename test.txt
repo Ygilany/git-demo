@@ -1,4 +1,4 @@
-this is the file we'll be editing (Nice)
+this is the file we'll be editing
 
 I’m user 1
 
